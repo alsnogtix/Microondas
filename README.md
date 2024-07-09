@@ -1,0 +1,1 @@
+# Simulador de Microondas implementado para avaliação

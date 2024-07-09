@@ -1,0 +1,107 @@
+﻿@{
+    ViewData["Title"] = "Microondas";
+}
+<div class="container mt-5">
+    <div class="row">
+        <div class="col-md-10 offset-md-1">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title text-center">Microondas</h5>
+                    <div class="screen bg-dark text-white text-center mb-4 p-3">
+                        <h4 id="time-display">@ViewBag.Time</h4>
+                        <p id="potencia">@ViewBag.Potencia</p>
+                        <p id="aviso">@ViewBag.Aviso</p>
+                    </div>
+                    <div class="row">
+                        @for (int i = 1; i <= 9; i++)
+                        {
+                            <div class="col-4 mb-2">
+                                <form asp-action="Input" method="post">
+                                    <input type="hidden" name="number" value="@i" />
+                                    <button type="submit" class="btn btn-secondary btn-block">@i</button>
+                                </form>
+                            </div>
+                        }
+                        <div class =col-4 mb-2></div>
+                        <div class="col-8 mb-2">
+                            <form asp-action="Input" method="post">
+                                <input type="hidden" name="number" value="0" />
+                                <button type="submit" class="btn btn-secondary btn-block">0</button>
+                            </form>
+                        </div>
+                        
+                        <div class="col-4 mb-2">
+                            <form asp-action="Stop" method="post">
+                                <button type="submit" class="btn btn-danger btn-block">Parar</button>
+                            </form>
+                        </div>
+                        <div class="col-4 mb-2">
+                            <form asp-action="Potencia" method="post">
+                                <button type="submit" class="btn btn-secondary btn-block">Potência</button>
+                            </form>
+                        </div>
+                        <div class="col-4 mb-2">
+                            <form asp-action="Start" method="post">
+                                <button type="submit" class="btn btn-primary btn-block">Iniciar</button>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+ 
+@section Scripts {
+    <script>
+
+        
+
+        function updateTime() {
+            fetch('/Microondas/GetTime')
+                .then(response => response.json())
+                .then(data => {
+                    
+                    if (data.isRunning) {
+                        mostraProcessamento(data.potencia, data.minutes, data.seconds);
+                        document.getElementById('time-display').innerText = `${data.minutes.toString().padStart(2, '0')}:${data.seconds.toString().padStart(2, '0')}`;
+
+                    } else 
+                    {
+
+                    }
+
+                });
+
+        }
+
+        function mostraProcessamento(p, m, s) {
+            let processamento = '';
+            console.log(p, m, s);
+            if (m == 1) {
+                for (let k = 0; k <= 60; k++) 
+                {
+                    for (let j = 0; j < p; j++) 
+                    {
+                        processamento += '.';
+                    }
+                    processamento += ' ';
+                }
+            }
+            for (let i = 0; i < s; i++) {  
+                for (let j = 0; j < p; j++) {
+                    processamento += '.';
+                }
+                processamento += ' ';
+            }
+            if (processamento == '') {
+                document.getElementById('aviso').innerText = "Aquecimento concluído.";
+            }else{
+                document.getElementById('aviso').innerText = processamento;
+            }
+        }
+
+        setInterval(updateTime, 1000);
+    </script>
+}

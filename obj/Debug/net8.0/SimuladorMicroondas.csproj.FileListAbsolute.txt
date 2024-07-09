@@ -1,0 +1,61 @@
+C:\benner\SimuladorMicroondas\bin\Debug\net8.0\appsettings.Development.json
+C:\benner\SimuladorMicroondas\bin\Debug\net8.0\appsettings.json
+C:\benner\SimuladorMicroondas\bin\Debug\net8.0\SimuladorMicroondas.staticwebassets.runtime.json
+C:\benner\SimuladorMicroondas\bin\Debug\net8.0\SimuladorMicroondas.exe
+C:\benner\SimuladorMicroondas\bin\Debug\net8.0\SimuladorMicroondas.deps.json
+C:\benner\SimuladorMicroondas\bin\Debug\net8.0\SimuladorMicroondas.runtimeconfig.json
+C:\benner\SimuladorMicroondas\bin\Debug\net8.0\SimuladorMicroondas.dll
+C:\benner\SimuladorMicroondas\bin\Debug\net8.0\SimuladorMicroondas.pdb
+C:\benner\SimuladorMicroondas\obj\Debug\net8.0\SimuladorMicroondas.GeneratedMSBuildEditorConfig.editorconfig
+C:\benner\SimuladorMicroondas\obj\Debug\net8.0\SimuladorMicroondas.AssemblyInfoInputs.cache
+C:\benner\SimuladorMicroondas\obj\Debug\net8.0\SimuladorMicroondas.AssemblyInfo.cs
+C:\benner\SimuladorMicroondas\obj\Debug\net8.0\SimuladorMicroondas.csproj.CoreCompileInputs.cache
+C:\benner\SimuladorMicroondas\obj\Debug\net8.0\SimuladorMicroondas.MvcApplicationPartsAssemblyInfo.cache
+C:\benner\SimuladorMicroondas\obj\Debug\net8.0\SimuladorMicroondas.RazorAssemblyInfo.cache
+C:\benner\SimuladorMicroondas\obj\Debug\net8.0\SimuladorMicroondas.RazorAssemblyInfo.cs
+C:\benner\SimuladorMicroondas\obj\Debug\net8.0\staticwebassets.build.json
+C:\benner\SimuladorMicroondas\obj\Debug\net8.0\staticwebassets.development.json
+C:\benner\SimuladorMicroondas\obj\Debug\net8.0\staticwebassets\msbuild.SimuladorMicroondas.Microsoft.AspNetCore.StaticWebAssets.props
+C:\benner\SimuladorMicroondas\obj\Debug\net8.0\staticwebassets\msbuild.build.SimuladorMicroondas.props
+C:\benner\SimuladorMicroondas\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SimuladorMicroondas.props
+C:\benner\SimuladorMicroondas\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SimuladorMicroondas.props
+C:\benner\SimuladorMicroondas\obj\Debug\net8.0\staticwebassets.pack.json
+C:\benner\SimuladorMicroondas\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\benner\SimuladorMicroondas\obj\Debug\net8.0\scopedcss\bundle\SimuladorMicroondas.styles.css
+C:\benner\SimuladorMicroondas\obj\Debug\net8.0\scopedcss\projectbundle\SimuladorMicroondas.bundle.scp.css
+C:\benner\SimuladorMicroondas\obj\Debug\net8.0\SimuladorMicroondas.dll
+C:\benner\SimuladorMicroondas\obj\Debug\net8.0\refint\SimuladorMicroondas.dll
+C:\benner\SimuladorMicroondas\obj\Debug\net8.0\SimuladorMicroondas.pdb
+C:\benner\SimuladorMicroondas\obj\Debug\net8.0\SimuladorMicroondas.genruntimeconfig.cache
+C:\benner\SimuladorMicroondas\obj\Debug\net8.0\ref\SimuladorMicroondas.dll
+C:\Users\aliss\OneDrive\Área de Trabalho\Microondas\Microondas\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\aliss\OneDrive\Área de Trabalho\Microondas\Microondas\bin\Debug\net8.0\appsettings.json
+C:\Users\aliss\OneDrive\Área de Trabalho\Microondas\Microondas\bin\Debug\net8.0\SimuladorMicroondas.staticwebassets.runtime.json
+C:\Users\aliss\OneDrive\Área de Trabalho\Microondas\Microondas\bin\Debug\net8.0\SimuladorMicroondas.exe
+C:\Users\aliss\OneDrive\Área de Trabalho\Microondas\Microondas\bin\Debug\net8.0\SimuladorMicroondas.deps.json
+C:\Users\aliss\OneDrive\Área de Trabalho\Microondas\Microondas\bin\Debug\net8.0\SimuladorMicroondas.runtimeconfig.json
+C:\Users\aliss\OneDrive\Área de Trabalho\Microondas\Microondas\bin\Debug\net8.0\SimuladorMicroondas.dll
+C:\Users\aliss\OneDrive\Área de Trabalho\Microondas\Microondas\bin\Debug\net8.0\SimuladorMicroondas.pdb
+C:\Users\aliss\OneDrive\Área de Trabalho\Microondas\Microondas\obj\Debug\net8.0\SimuladorMicroondas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aliss\OneDrive\Área de Trabalho\Microondas\Microondas\obj\Debug\net8.0\SimuladorMicroondas.AssemblyInfoInputs.cache
+C:\Users\aliss\OneDrive\Área de Trabalho\Microondas\Microondas\obj\Debug\net8.0\SimuladorMicroondas.AssemblyInfo.cs
+C:\Users\aliss\OneDrive\Área de Trabalho\Microondas\Microondas\obj\Debug\net8.0\SimuladorMicroondas.csproj.CoreCompileInputs.cache
+C:\Users\aliss\OneDrive\Área de Trabalho\Microondas\Microondas\obj\Debug\net8.0\SimuladorMicroondas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aliss\OneDrive\Área de Trabalho\Microondas\Microondas\obj\Debug\net8.0\SimuladorMicroondas.RazorAssemblyInfo.cache
+C:\Users\aliss\OneDrive\Área de Trabalho\Microondas\Microondas\obj\Debug\net8.0\SimuladorMicroondas.RazorAssemblyInfo.cs
+C:\Users\aliss\OneDrive\Área de Trabalho\Microondas\Microondas\obj\Debug\net8.0\SimuladorMicroondas.sourcelink.json
+C:\Users\aliss\OneDrive\Área de Trabalho\Microondas\Microondas\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\aliss\OneDrive\Área de Trabalho\Microondas\Microondas\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\aliss\OneDrive\Área de Trabalho\Microondas\Microondas\obj\Debug\net8.0\staticwebassets\msbuild.SimuladorMicroondas.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\aliss\OneDrive\Área de Trabalho\Microondas\Microondas\obj\Debug\net8.0\staticwebassets\msbuild.build.SimuladorMicroondas.props
+C:\Users\aliss\OneDrive\Área de Trabalho\Microondas\Microondas\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SimuladorMicroondas.props
+C:\Users\aliss\OneDrive\Área de Trabalho\Microondas\Microondas\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SimuladorMicroondas.props
+C:\Users\aliss\OneDrive\Área de Trabalho\Microondas\Microondas\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\aliss\OneDrive\Área de Trabalho\Microondas\Microondas\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\aliss\OneDrive\Área de Trabalho\Microondas\Microondas\obj\Debug\net8.0\scopedcss\bundle\SimuladorMicroondas.styles.css
+C:\Users\aliss\OneDrive\Área de Trabalho\Microondas\Microondas\obj\Debug\net8.0\scopedcss\projectbundle\SimuladorMicroondas.bundle.scp.css
+C:\Users\aliss\OneDrive\Área de Trabalho\Microondas\Microondas\obj\Debug\net8.0\SimuladorMicroondas.dll
+C:\Users\aliss\OneDrive\Área de Trabalho\Microondas\Microondas\obj\Debug\net8.0\refint\SimuladorMicroondas.dll
+C:\Users\aliss\OneDrive\Área de Trabalho\Microondas\Microondas\obj\Debug\net8.0\SimuladorMicroondas.pdb
+C:\Users\aliss\OneDrive\Área de Trabalho\Microondas\Microondas\obj\Debug\net8.0\SimuladorMicroondas.genruntimeconfig.cache
+C:\Users\aliss\OneDrive\Área de Trabalho\Microondas\Microondas\obj\Debug\net8.0\ref\SimuladorMicroondas.dll

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aliss\\OneDrive\\\u00C1rea de Trabalho\\projetoMicroondas\\Microondas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23853848-03BD-4E25-B7AE-3505F9A3DEFE}|SimuladorMicroondas.csproj|c:\\users\\aliss\\onedrive\\\u00E1rea de trabalho\\projetomicroondas\\microondas\\views\\microondas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23853848-03BD-4E25-B7AE-3505F9A3DEFE}|SimuladorMicroondas.csproj|solutionrelative:views\\microondas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23853848-03BD-4E25-B7AE-3505F9A3DEFE}|SimuladorMicroondas.csproj|c:\\users\\aliss\\onedrive\\\u00E1rea de trabalho\\projetomicroondas\\microondas\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{23853848-03BD-4E25-B7AE-3505F9A3DEFE}|SimuladorMicroondas.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23853848-03BD-4E25-B7AE-3505F9A3DEFE}|SimuladorMicroondas.csproj|c:\\users\\aliss\\onedrive\\\u00E1rea de trabalho\\projetomicroondas\\microondas\\controllers\\microondascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23853848-03BD-4E25-B7AE-3505F9A3DEFE}|SimuladorMicroondas.csproj|solutionrelative:controllers\\microondascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\aliss\\OneDrive\\\u00C1rea de Trabalho\\projetoMicroondas\\Microondas\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\aliss\\OneDrive\\\u00C1rea de Trabalho\\projetoMicroondas\\Microondas\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-07-09T02:04:07.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\aliss\\OneDrive\\\u00C1rea de Trabalho\\projetoMicroondas\\Microondas\\Views\\Microondas\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Microondas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\aliss\\OneDrive\\\u00C1rea de Trabalho\\projetoMicroondas\\Microondas\\Views\\Microondas\\Index.cshtml",
+              "RelativeToolTip": "Views\\Microondas\\Index.cshtml",
+              "ViewState": "AQIAADsAAAAAAAAAAAAAAEoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T01:10:43.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MicroondasController.cs",
+              "DocumentMoniker": "C:\\Users\\aliss\\OneDrive\\\u00C1rea de Trabalho\\projetoMicroondas\\Microondas\\Controllers\\MicroondasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MicroondasController.cs",
+              "ToolTip": "C:\\Users\\aliss\\OneDrive\\\u00C1rea de Trabalho\\projetoMicroondas\\Microondas\\Controllers\\MicroondasController.cs",
+              "RelativeToolTip": "Controllers\\MicroondasController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T01:10:38.044Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

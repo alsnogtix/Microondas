@@ -38,6 +38,15 @@ namespace SimuladorMicroondas.Controllers
             return RedirectToAction("Index");
         }
 
+
+        [HttpPost]
+        public IActionResult Predefinido(String alimento)
+        {
+            aviso = alimento;
+
+            return RedirectToAction("Index");
+        }
+
         [HttpPost]
         public IActionResult Input(int number)
         {

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SimuladorMicroondas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0834f5aa30d175a0484f83a978441892274fe5af")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa57a5588e9c18841a973ee435fb62025217702f")]
 [assembly: System.Reflection.AssemblyProductAttribute("SimuladorMicroondas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SimuladorMicroondas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
